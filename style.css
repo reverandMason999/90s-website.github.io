@@ -1,0 +1,68 @@
+#header{
+    background-color: black;
+    color:rgb(89, 13, 89);
+    font-size:30px;
+    font-family: 'Creepster', cursive;
+    text-align: center;
+    width:850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#container{
+    background-color: black;
+    color:red;
+    text-align: center;
+    font-size:30px;
+    font-family: 'Special Elite', cursive;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#pentagram1{
+    height: 150px;
+    width:150px;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+#pentagram2{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 0px;
+    right:0px;
+    
+}
+
+body{
+    background-image: url("images.jpg");
+}
+
+#navLink{
+    color:red;
+    text-align: center;
+}
+
+#hit{
+    height: 50px;
+    width:200px;
+}
+#container > h2{
+    font-size:30px;
+}
+#alPhoto{
+    width:150px;
+    height:150px;
+}
+#albumtxt{
+    color:red;
+    text-align: center;
+    font-size:15px;
+    font-family: 'Special Elite', cursive;
+    
+}
